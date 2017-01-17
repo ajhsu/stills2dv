@@ -1,6 +1,6 @@
 resolution 1280x720
-framerate 29.97
-quality 90
+framerate 60
+quality 100
 type jpg
 pansmoothness 0.5
 zoomsmoothness 0.5
